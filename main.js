@@ -17,9 +17,7 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
     }
 
  }
- 
-
- //enquanto
+  //enquanto
  //let contador = 0;
 //while (contador < listaDeTeclas.length) {
  //   const tecla = listaDeTeclas[contador];
@@ -32,4 +30,4 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
    // };
 
    // contador = contador + 1;
- }
+ // }
